@@ -1,0 +1,5 @@
+name: "generate-unsigned-provenance"
+version: 0.1.0
+description: |
+  This Helm plugin generates an unsigned provenance file for a Helm chart.
+command: "$HELM_PLUGIN_DIR/scripts/run.sh"
